@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/main_actionbar_post_add"
+        android:title="@string/post_add"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_post_add"/>
+
+    <item android:id="@+id/main_actionbar_favorite"
+        android:title="@string/likes"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_favorite" />
+
+    <item android:id="@+id/main_actionbar_messages"
+        android:title="@string/messages"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_message"/>
+
+</menu>
