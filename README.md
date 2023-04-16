@@ -13,8 +13,8 @@ ShareSocialApp App uses modern Android development with Room,ViewModel,Livedata,
     README_REPOSITORY: <username>/<differentrepo>  # Needed if README repository is not current repo
     IMG_PATH: <your-image-directory>        # Needed if images are not present in .github/images of image repository
     IMG_REPOSITORY: <username>/<imagerepo>  # Needed if images are not present in current repo
-    HEIGHT: 180px       # default
-    WIDTH: 180px        # default
+    HEIGHT: 20px       # default
+    WIDTH: 20px        # default
     ALIGN: right        # default
     IMG_ALT: Profile Image      # default
 
