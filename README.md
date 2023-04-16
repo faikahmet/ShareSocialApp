@@ -1,25 +1,16 @@
 # ShareSocialApp
 ShareSocialApp App uses modern Android development with Room,ViewModel,Livedata,Coil and Material Design.This is based on MVVM architecture.
 
+# ScreenShoot
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg" width = "300" height="600">
   </p>
-![WhatsApp Image 2023-04-16 at 6 15 54 PM](https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg)
-
-
-
-
-
-
-
-
-
+  
 # Download
 Go to the Releases to download the latest APK.
 
 
-#Open-source libraries
-
+# Open-source libraries
 Minimum SDK level 21
 Jetpack
 Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
