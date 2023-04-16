@@ -2,17 +2,8 @@
 ShareSocialApp App uses modern Android development with Room,ViewModel,Livedata,Coil and Material Design.This is based on MVVM architecture.
 
 <!--START_SECTION:update_image-->
-![WhatsApp Image 2023-04-16 at 6 15 54 PM](https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg)
-- uses: siddharth2016/update-readme-image@main
-  with:
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}     # Needed if README repository is not profile repo
-    README_REPOSITORY: <username>/<differentrepo>  # Needed if README repository is not current repo
-    IMG_PATH: <your-image-directory>        # Needed if images are not present in .github/images of image repository
-    IMG_REPOSITORY: <username>/<imagerepo>  # Needed if images are not present in current repo
-    HEIGHT: 20px       # default
-    WIDTH: 20px        # default
-    ALIGN: right        # default
-    IMG_ALT: Profile Image      # default
+![WhatsApp Image 2023-04-16 at 6 15 54 PM](https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg 100x20)
+
 <!--END_SECTION:update_image-->
 
 
