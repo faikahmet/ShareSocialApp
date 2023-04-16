@@ -2,7 +2,7 @@
 ShareSocialApp App uses modern Android development with Room,ViewModel,Livedata,Coil and Material Design.This is based on MVVM architecture.
 
 <!--START_SECTION:update_image-->
-![WhatsApp Image 2023-04-16 at 6 15 54 PM](https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg 100x20)
+![WhatsApp Image 2023-04-16 at 6 15 54 PM](https://user-images.githubusercontent.com/48482054/232322610-73fbef5a-512d-4bad-a8ce-8349cf348c36.jpeg)
 
 <!--END_SECTION:update_image-->
 
